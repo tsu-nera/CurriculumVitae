@@ -1,1 +1,121 @@
 #+TITLE: 職務履歴書
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+
+* 基本情報
+
+|----------+----------------------------|
+| key      | value                      |
+|----------+----------------------------|
+| Name     | 原田　経道(はらだつねみち) |
+| Twitter  | [[https://twitter.com/tsu_nera][きつね(@tsu_nera)]]          |
+| Facebook | [[https://www.facebook.com/tsunemichi.harada][原田 経道]]                  |
+| Github   | [[https://github.com/tsu-nera][tsu-nera]]                   |
+| LinkedIn | [[https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button][Tsunemichi Harada]]          |
+| Quita    | [[http://qiita.com/tsu_nera][tsu_nera]]                   |
+| Blog     | http://futurismo.biz       |
+|----------+----------------------------|
+
+|--------+-----------------------|
+| 性別   | 男                    |
+| 現住所 | 神奈川県　川崎市      |
+| mail   | fox10225fox@gmail.com |
+|--------+-----------------------|
+
+* 言語
+|----------+--------------|
+| 自然言語 | 備考         |
+|----------+--------------|
+| 日本語   | ネイティブ   |
+| English  | 日常会話程度 |
+|----------+--------------|
+
+* 学歴
+
+| 　学校名                    |      所属年月 |
+|-----------------------------+---------------|
+| 巣鴨高校                    | 200204-200503 |
+| 河合塾池袋校                | 200504-200603 |
+| 東京理科大学 数理情報科学科 | 200604-201003 |
+(柳田研究室　専攻: 情報理論)
+
+* 言語
+  - 実務経験あり: C 言語, Ruby, Java
+  - 趣味: C++, Scala, Clojure, Python, 他
+
+* 興味
+  - Emacs
+  - 関数型言語
+  - 機械学習
+
+* 職務経歴
+  2010/04 - （現在）: 株式会社富士通コンピュータテクノロジーズ
+  ソフトウェア開発者 (Fujitsu Computer Technologies Liminted)
+  - ETERNUS DX フォームウェア開発 201004-201401
+  - 統合保守エンジン開発 201402-201407
+  - WAN 高速化開発 201408-201502
+  - AGL プロジェクト 研究開発 201503-201506
+  - ServerView Infrastructure Manager 201507-201512
+  - 休職 201512-(現在)
+
+* 資格
+- 応用情報技術者試験
+- UMTP L2
+- LPIC L1
+- TOEIC L&R Score 840
+
+* MOOC
+- Algorithms, Part I - coursera 2013/11
+- Algorithms, Part II - coursera 2014/02
+- C++ For C Programmers - coursera 2014/02
+- Creative, Serious and Playful Science of Android Apps - coursera 2014/02
+- Programming Mobile Applications for Android Handheld Systems - courserea 2014/03
+- Unlocking the Immunity to Change: A New Approach to Personal Improvement - edX 2014/03
+- Web Application Architectures - coursera 2013/06
+- Pattern-Oriented Software Architectures: Programming Mobile Services for Android Handheld Systems - coursera 2014/07
+- The Hardware/Software Interface - coursera 2014/09
+- Programming Cloud Services for Android Handheld Systems - coursera 2014/09
+- Introduction to Linux - edX 2014/12
+- Paradigms of Computer Programming -Fundamentals - coursera 2014/12
+- Computational Investing, Part I - coursera 2014/12
+- Survey of Music Technology - coursera 2014/12
+- Introduction to Functional Programming - edX 2014/12
+- Louv1.2x: Paradigms of Computer Programming - Abstraction and Concurrency - edX 2015/02
+- The Data Scientist ’ s Toolbox - coursera 2015/02
+- R Programming - coursera 2015/02
+- Reproducible Research coursera 2015/03
+- Cloud Computing Concepts PartI - coursera 2015/03
+- Cloud Computing Concepts PartII - coursera 2015/04
+- edX Honor Code Certificate for Foundations of Data Analysis - edX 2015/03
+- Principles of Reactive Programming - coursera 2015/05
+- From Nand to Tetris / Part I - coursera 2015/05
+
+* 心がけていること
+- 小さいことを積み重ねることが、 とんでもないところへ行くただひとつの道 
+- スピードよりも着実な理解を優先する 
+- やる気がでないときは勉強する意味を考える 
+- 達成よりも学習の過程を重視する 
+- 難しいことは 2 回挑戦して諦める 
+- 才能は努力で克服できる、 努力は必ず報われる。
+- 忍耐強い楽天家であれ。 
+- 他人と自分を比較しない、自分を信じて。
+
+* 目標
+** 短期目標
+- 目標 TOEIC900 スコアを取ること。 
+
+** 中期目標
+- 英会話と英作文の勉強をすること。
+- 機械学習の勉強をすること（MOOC の単位を取得） 
+
+** 長期目標
+- 機械学習の知識を利用できる仕事をすること。 
+- 英語ができるプログラマになること。 
+- オープンソースに貢献すること。 
+- カンファレンスで英語でプレゼンして質疑応答ができること。 
+- 海外の技術情報を素早く手に入れ理解すること。
+
+* 趣味
+- 落語
+- 英語
+- クラシック音楽
+- オペラ
