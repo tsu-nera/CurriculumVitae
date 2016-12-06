@@ -53,7 +53,8 @@
   ソフトウェア開発者 (Fujitsu Computer Technologies Liminted)
   - ETERNUS DX フォームウェア開発 201004-201401
   - 統合保守エンジン開発 201402-201407
-  - WAN 高速化開発 201408-201502
+  - WAN 高速化開発 201408-201502 
+    [[http://pr.fujitsu.com/jp/news/2015/06/22.html][遠隔地からのファイルアクセスを高速化するデータ転送技術を開発 : 富士通]]
   - AGL プロジェクト 研究開発 201503-201506
   - ServerView Infrastructure Manager 201507-201512
   - 休職 201512-(現在)
@@ -122,4 +123,4 @@
 - オペラ
 
 * 読書歴（２０１６年より記録)
-// TODO
+  // TODO
