@@ -18,7 +18,7 @@
 |----------+-----------------------|
 | 性別     | 男                    |
 | 生年月日 | 1986/10/25            |
-| 現住所   | 神奈川県　川崎市      |
+| 現住所   | 神奈川県  川崎市     |
 | mail     | fox10225fox@gmail.com |
 |----------+-----------------------|
 
@@ -39,7 +39,7 @@
 | 東京理科大学 数理情報科学科 | 200604-201003 |
 (柳田研究室　専攻: 情報理論)
 
-* 言語
+* プログラミング言語
   - 実務経験あり: C 言語, Ruby, Java
   - 趣味: C++, Scala, Clojure, Python, 他
 
@@ -60,13 +60,13 @@
   - 休職 201512-(現在)
 
 * 資格
-- 応用情報技術者試験
-- UMTP L2
-- LPIC L1
-- TOEIC L&R Score 840
+  - 応用情報技術者試験
+  - UMTP L1/L2
+  - LPIC L1
+  - TOEIC L&R Score 840
 
 * 特許
-  - [[http://patent.newsln.jp/p/2016151850][特開2016-151850 - PatentNewsln]]
+  - [[http://patent.newsln.jp/p/2016151850][特開 2016-151850 - PatentNewsln]]
 * 心がけていること
 ** 成功の定義
   - 数学とプログラミングを通じてお金を稼ぎ、 テクノロジーの発展に貢献すること。
@@ -75,18 +75,18 @@
    
 ** 目標
 *** 短期目標
-- 目標 TOEIC900 スコアを取ること。 
+  - TOEIC860 スコアを取ること。 
 
 *** 中期目標
-- 英会話と英作文の勉強をすること。
-- 機械学習の勉強をすること（MOOC の単位を取得） 
+  - 英会話と英作文の勉強をすること。
+  - 機械学習の勉強をすること
+  - TOEIC900 スコアを取ること。 
 
 *** 長期目標
-- 機械学習の知識を利用できる仕事をすること。 
-- 英語ができるプログラマになること。 
-- オープンソースに貢献すること。 
-- カンファレンスで英語でプレゼンして質疑応答ができること。 
-- 海外の技術情報を素早く手に入れ理解すること。
+  - 機械学習の知識を利用できる仕事をすること。 
+  - 英語ができるプログラマになること。 
+  - カンファレンスで英語でプレゼンして質疑応答ができること。 
+  - 海外の技術情報を素早く手に入れ理解すること。
 
 ** 信念
   - 小さいことを積み重ねることが、 とんでもないところへ行くただひとつの道
@@ -99,6 +99,7 @@
   - GRIT(やり抜く力） 才能は努力で克服できる
   - 成長思考−努力は必ず報われると信じる
   - 興味をもつ、練習を続ける、目的をもつ、希望を持つ
+
 * MOOC 受講履歴
 - Algorithms, Part I - coursera 2013/11
 - Algorithms, Part II - coursera 2014/02
@@ -124,6 +125,10 @@
 - edX Honor Code Certificate for Foundations of Data Analysis - edX 2015/03
 - Principles of Reactive Programming - coursera 2015/05
 - From Nand to Tetris / Part I - coursera 2015/05
+- Success - coursera 2016/12
+- Programming Languages PartA - coursera 2016/12 [[https://www.coursera.org/account/accomplishments/certificate/KB24LCCEPQL6][certificate]]
+- Programming Languages PartB - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/ZQJJNSZT74H2][certificate]]
+- Programming Languages PartC - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/CTXKUYXKDVC7][certificate]]
 
 * 趣味
 - 落語
