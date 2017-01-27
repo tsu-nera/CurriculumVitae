@@ -7,7 +7,7 @@
 | key      | value                      |
 |----------+----------------------------|
 | Name     | 原田　経道(はらだつねみち) |
-| Twitter  | [[https://twitter.com/tsu_nera][きつね(@tsu_nera)]]          |
+| Twitter  | [[https://twitter.com/tsu_nera][tsu-nera(@tsu_nera)]]        |
 | Facebook | [[https://www.facebook.com/tsunemichi.harada][原田 経道]]                  |
 | Github   | [[https://github.com/tsu-nera][tsu-nera]]                   |
 | LinkedIn | [[https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button][Tsunemichi Harada]]          |
