@@ -35,18 +35,12 @@
 | 　学校名                    |      所属年月 |
 |-----------------------------+---------------|
 | 巣鴨高校                    | 200204-200503 |
-| 河合塾池袋校                | 200504-200603 |
 | 東京理科大学 数理情報科学科 | 200604-201003 |
 (柳田研究室　専攻: 情報理論)
 
 * プログラミング言語
   - 実務経験あり: C 言語, Ruby, Java
   - 趣味: C++, Scala, Clojure, Python, 他
-
-* 興味
-  - Emacs
-  - 関数型言語
-  - 機械学習
 
 * 職務経歴
   2010/04 - （現在）: 株式会社富士通コンピュータテクノロジーズ
@@ -69,7 +63,7 @@
   - [[http://patent.newsln.jp/p/2016151850][特開 2016-151850 - PatentNewsln]]
 * 心がけていること
 ** 成功の定義
-  - 数学とプログラミングを通じてお金を稼ぎ、 テクノロジーの発展に貢献すること。
+  - プログラミングを通じてお金を稼ぎ、 テクノロジーの発展に貢献すること。
   - 常に努力を怠らず、 目標を持って仕事に情熱を燃やすこと。
   - 英語を駆使して世界で活躍する、 ソフトウェア開発者になること。
    
@@ -131,8 +125,5 @@
 28) Programming Languages PartC - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/CTXKUYXKDVC7][certificate]]
 29) Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
 
-* 趣味
-- 落語
-- TOEIC
-- クラシック音楽
-- オペラ
+* 機械学習の勉強履歴
+- Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
