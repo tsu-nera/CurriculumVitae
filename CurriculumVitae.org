@@ -57,7 +57,7 @@
   - 応用情報技術者試験
   - UMTP L1/L2
   - LPIC L1
-  - TOEIC L&R Score 840
+  - TOEIC L&R Score 860
 
 * 特許
   - [[http://patent.newsln.jp/p/2016151850][特開 2016-151850 - PatentNewsln]]
@@ -69,7 +69,7 @@
    
 ** 目標
 *** 短期目標
-  - TOEIC860 スコアを取ること。 
+  - TOEIC860 スコアを取ること。 (達成: 2017/03)
 
 *** 中期目標
   - 英会話と英作文の勉強をすること。
@@ -124,6 +124,3 @@
 27) Programming Languages PartB - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/ZQJJNSZT74H2][certificate]]
 28) Programming Languages PartC - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/CTXKUYXKDVC7][certificate]]
 29) Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
-
-* 機械学習の勉強履歴
-- Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
