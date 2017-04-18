@@ -6,21 +6,23 @@
 |----------+----------------------------|
 | key      | value                      |
 |----------+----------------------------|
-| Name     | 原田　経道(はらだつねみち) |
+| Name     | 原田  経道(はらだつねみち) |
 | Twitter  | [[https://twitter.com/tsu_nera][tsu-nera(@tsu_nera)]]        |
 | Facebook | [[https://www.facebook.com/tsunemichi.harada][原田 経道]]                  |
 | Github   | [[https://github.com/tsu-nera][tsu-nera]]                   |
 | LinkedIn | [[https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button][Tsunemichi Harada]]          |
 | Quita    | [[http://qiita.com/tsu_nera][tsu_nera]]                   |
 | Blog     | http://futurismo.biz       |
+| Kaggle   | [[https://www.kaggle.com/fox10225fox][tsu-nera]]                   |
+| TopCoder | [[https://www.topcoder.com/members/tsu_nera][tsu_nera]]                   |
 |----------+----------------------------|
 
-|----------+-----------------------|
-| 性別     | 男                    |
-| 生年月日 | 1986/10/25            |
-| 現住所   | 神奈川県  川崎市     |
-| mail     | fox10225fox@gmail.com |
-|----------+-----------------------|
+|----------+------------------------|
+| 性別     | 男                     |
+| 生年月日 | 1986/10/25             |
+| 現住所   | 神奈川県 川崎市 中原区 |
+| mail     | fox10225fox@gmail.com  |
+|----------+------------------------|
 
 * 言語
 |----------+--------------|
@@ -124,3 +126,4 @@
 27) Programming Languages PartB - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/ZQJJNSZT74H2][certificate]]
 28) Programming Languages PartC - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/CTXKUYXKDVC7][certificate]]
 29) Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
+30) Creative Applications of Deep Learning with TensorFlow - kadenze
