@@ -126,4 +126,4 @@
 27) Programming Languages PartB - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/ZQJJNSZT74H2][certificate]]
 28) Programming Languages PartC - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/CTXKUYXKDVC7][certificate]]
 29) Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
-30) Creative Applications of Deep Learning with TensorFlow - kadenze
+30) Creative Applications of Deep Learning with TensorFlow - kadenze [[https://www.kadenze.com/certificates/verified/AW1D6GZP][certificate]]
