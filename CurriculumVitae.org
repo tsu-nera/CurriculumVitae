@@ -59,7 +59,7 @@
   - 応用情報技術者試験
   - UMTP L1/L2
   - LPIC L1
-  - TOEIC L&R Score 860
+  - TOEIC L&R Score 895(2017/4)
 
 * 特許
   - [[http://patent.newsln.jp/p/2016151850][特開 2016-151850 - PatentNewsln]]
