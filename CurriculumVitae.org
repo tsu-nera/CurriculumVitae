@@ -53,13 +53,14 @@
     [[http://pr.fujitsu.com/jp/news/2015/06/22.html][遠隔地からのファイルアクセスを高速化するデータ転送技術を開発 : 富士通]]
   - AGL プロジェクト 研究開発 201503-201506
   - ServerView Infrastructure Manager 201507-201512
-  - 休職 201512-(現在)
+  - 休職 201512-201709
 
 * 資格
+  - TOEIC L&R Score 895(2017/4)
   - 応用情報技術者試験
   - UMTP L1/L2
   - LPIC L1
-  - TOEIC L&R Score 895(2017/4)
+  - Java SE8 Silver
 
 * 特許
   - [[http://patent.newsln.jp/p/2016151850][特開 2016-151850 - PatentNewsln]]
@@ -127,3 +128,7 @@
 28) Programming Languages PartC - coursera 2017/01 [[https://www.coursera.org/account/accomplishments/certificate/CTXKUYXKDVC7][certificate]]
 29) Machine Learning - coursera 2017/02 [[https://www.coursera.org/account/accomplishments/certificate/YUBG2A7K87ND][certificate]]
 30) Creative Applications of Deep Learning with TensorFlow - kadenze [[https://www.kadenze.com/certificates/verified/AW1D6GZP][certificate]]
+31) Deep Learning NanoDegree Foundation - Udacity 
+32) Practical Deep Learning for Coders - fast.ai
+33) Cutting Edge Deep Learning for Coders - fast.ai
+
